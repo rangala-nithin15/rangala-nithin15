@@ -97,7 +97,7 @@ class Nithin:
 | ☁️ | **Oracle Cloud Infrastructure 2025** — AI Foundations Associate |
 | 💻 | **Meta Front-End Developer** — Professional Certificate (Coursera) |
 | 🗄️ | **NPTEL Elite Certificate** — Database Management Systems |
-| 🐍 | **NPTEL** — Python for Data Science |
+| 🐍 | **NPTEL Elite Certificate** — Python for Data Science |
 
 ---
 

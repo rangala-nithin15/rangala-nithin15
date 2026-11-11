@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rangala%20Nithin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20IoT%20Enthusiast%20%7C%20Web%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nithin+%F0%9F%91%8B;2nd+Year+CSE+Student+%40+SJIT;IoT+%7C+Web+Dev+%7C+Embedded+Systems;Building+Tech+that+Matters+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nithin+%F0%9F%91%8B;3rd+Year+CSE+Student+%40+SJIT;IoT+%7C+Web+Dev+%7C+Embedded+Systems;Building+Tech+that+Matters+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:rangalanithin1844@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -22,7 +22,7 @@
 class Nithin:
     name       = "Rangala Nithin"
     role       = "CSE Student @ St. Joseph's Institute of Technology"
-    year       = "2nd Year (2024–2028)"
+    year       = "3rd Year (2024–2028)"
     location   = "Chennai, India 🇮🇳"
     interests  = ["IoT", "Embedded Systems", "Web Development", "Problem Solving"]
     languages  = ["English", "Tamil", "Telugu"]
